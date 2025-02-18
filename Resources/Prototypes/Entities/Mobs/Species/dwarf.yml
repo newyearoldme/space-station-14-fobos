@@ -64,6 +64,8 @@
             sprite: Mobs/Species/Human/displacement.rsi
             state: jumpsuit-female
   - type: Sanity # DS14
+  - type: TypingIndicator # DS14
+    proto: dwarf 
 
 - type: entity
   parent: BaseSpeciesDummy
