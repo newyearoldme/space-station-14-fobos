@@ -66,7 +66,10 @@
   - type: Sanity # DS14
   - type: TypingIndicator # DS14
     proto: dwarf 
-
+  - type: FootPrints # Backmen-footsteps
+    leftBarePrint: "footprint-left-bare-dwarf"
+    rightBarePrint: "footprint-right-bare-dwarf"
+    
 - type: entity
   parent: BaseSpeciesDummy
   id: MobDwarfDummy
