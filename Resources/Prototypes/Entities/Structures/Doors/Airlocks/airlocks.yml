@@ -141,7 +141,7 @@
     sprite: Structures/Doors/Airlocks/Standard/mining.rsi
   - type: Wires
     layoutId: AirlockCargo
-  - type: Construction
+  - type: Construction # DS14
     graph: MiningAirlock
     node: airlock
 
@@ -301,7 +301,7 @@
   components:
   - type: Sprite
     sprite: Structures/Doors/Airlocks/Glass/mining.rsi
-  - type: Construction
+  - type: Construction # DS14
     graph: MiningAirlock
     node: glassAirlock
 

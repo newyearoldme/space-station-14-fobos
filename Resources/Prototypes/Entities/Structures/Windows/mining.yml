@@ -50,7 +50,7 @@
       sprite: Structures/Windows/cracks.rsi
   - type: StaticPrice
     price: 100
-  - type: Construction
+  - type: Construction # DS14
     graph: MiningWindow
     node: miningWindow
 
@@ -98,6 +98,6 @@
   - type: DamageVisuals
     damageOverlay:
       sprite: Structures/Windows/cracks_diagonal.rsi
-  - type: Construction
+  - type: Construction # DS14
     graph: MiningWindow
     node: miningWindowDiagonal

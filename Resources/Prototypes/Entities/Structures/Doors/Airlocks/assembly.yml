@@ -299,7 +299,7 @@
   - type: Sprite
     sprite: Structures/Doors/Airlocks/Standard/mining.rsi
     state: "assembly"
-  - type: Construction
+  - type: Construction # DS14
     graph: MiningAirlock
     node: assembly
 
@@ -311,7 +311,7 @@
   - type: Sprite
     sprite: Structures/Doors/Airlocks/Glass/mining.rsi
     state: "assembly"
-  - type: Construction
+  - type: Construction # DS14
     graph: MiningAirlock
     node: glassElectronics
 
