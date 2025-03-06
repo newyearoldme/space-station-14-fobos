@@ -6,7 +6,8 @@
   components:
   - type: Sprite
     sprite: Objects/Specific/Medical/hypospray.rsi
-    state: combat_hypo
+    layers: 
+    - state: combat_hypo
   - type: GuardianCreator
     guardianProto: MobHoloparasiteGuardian
 
